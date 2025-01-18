@@ -1,5 +1,7 @@
 # BusinessCard_Data_Extraction_with_OCR
 
+Linked in URL : https://www.linkedin.com/in/kalai-selvam-55428126a
+
 ## Description
 The **Business Card Data Extraction** project is a Python application that utilizes **EasyOCR** and **Streamlit** to extract key information from images of business cards. The extracted data is categorized into several fields such as Name, Designation, Contact, Email, Website, Address, and Pincode. The extracted information is then stored in a SQLite database. Users can upload an image of a business card, extract its details, and save or modify the data directly through a simple and interactive web interface built with **Streamlit**.
 
